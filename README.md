@@ -1,5 +1,5 @@
 # ConsoleApp
-There is embedded MySql database.
+There is MySql database.
 
 For memorizing the database you can use insert.sql.
 
