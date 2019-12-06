@@ -1,5 +1,6 @@
-<h3>BotsCrew test task</h3>
-For this application I used MySql and you can use insert.sql file for memorizing the database.
+# ConsoleApp
+There is embedded MySql database.
+For memorizing the database you can use insert.sql.
 
 Run Main.java.
         
